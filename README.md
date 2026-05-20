@@ -22,6 +22,8 @@ End-to-end data analytics project analyzing customer shopping behavior to identi
 
 ## Dashboard
 Interactive Power BI dashboard with KPIs, customer segmentation, revenue insights, and slicers.
+<img width="1243" height="701" alt="Screenshot 2026-01-06 211219" src="https://github.com/user-attachments/assets/2e0ea437-e314-43e6-ac7c-63ee2d3b4968" />
+
 
 ## Key Insights
 - Subscribers and repeat buyers generate higher revenue  
